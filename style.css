@@ -77,57 +77,12 @@ label,span,h2{
 
 .center{
     display: grid;
-    justify-content:center;
-    
-    
-    
+    justify-content:center;  
 }
 .block{
-    display: block;
-    
+    display: block;  
 }
-
-.lname{
-    display:grid;
-    justify-content: center;
-}
-.lastN{
-    display:block;
-}
-
-.ag{
-    display: grid;
-    justify-content: center;
-}
-
-.YourA{
-    display: block;
-}
-
-.em{
-    display: grid;
-    justify-content: center;
-}
-
-.Yourem{
-    display: block;
-}
-
-.gen{
-    display: grid;
-    justify-content: center;
-}
-
-.Yourgen{
-    display: block;
-}
-
-.ma{
-    display: grid;
-    justify-content: center;
-}
-
-
 .ip{
-    vertical-align: middle;
+   width: 25px;
+   height: 25px;
 }
